@@ -1,5 +1,5 @@
-# @konojunya_bot
+# konojunya_EN_Reply
 
-Creater @konojunya
+**English version of my Twitter account.**
 
-home page-> [konojunya.com](http://konojunya.com)
+[@konojunya_EN](https://twitter.com/konojunya_EN)
